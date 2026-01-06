@@ -2,7 +2,7 @@
 <p>A Software Engineer passionate about innovation and continuous learning, with strong proficiency in both front-end and back-end technologies. Experienced in building responsive, user-friendly applications and currently sharpening skills in Data Structures & Algorithms and System Design. Driven to leverage technology to solve real-world problems and create meaningful impact. Open to new opportunities and collaborations in the ever-evolving tech landscape. Let’s connect and build something great together.</p>
 
 # 💫 About Me:
-🔭 I’m currently working on problem solving.<br>👯 I’m looking to collaborate on real world projects.<br>🌱 I’m currently sharpenind skills in data structures and algorithms and system design.<br>❤️ I love debugging and fixing code issues.<br>💬 Ask me about software development.
+🔭 I’m currently working on problem solving.<br>👯 I’m looking to collaborate on real world projects.<br>🌱 I’m currently sharpening skills in data structures and algorithms and system design.<br>❤️ I love debugging and fixing code issues.<br>💬 Ask me about software development.
 
 
 ## 🌐 Socials:
