@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm Vinit Patidar</h1>
-<p>A Software Engineer passionate about innovation and continuous learning, with strong proficiency in both front-end and back-end technologies. Experienced in building responsive, user-friendly applications and currently sharpening skills in Data Structures & Algorithms and System Design. Driven to leverage technology to solve real-world problems and create meaningful impact. Open to new opportunities and collaborations in the ever-evolving tech landscape. Let’s connect and build something great together.</p>
+<p>A Software Engineer passionate about innovation and continuous learning, with strong proficiency in both front-end and back-end technologies. Experienced in building responsive, user-friendly applications and currently sharpening skills in System Design. Driven to leverage technology to solve real-world problems and create meaningful impact. Open to new opportunities and collaborations in the ever-evolving tech landscape. Let’s connect and build something great together.</p>
 
 
 ## 🌐 Socials:
