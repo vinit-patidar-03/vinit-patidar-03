@@ -1,39 +1,69 @@
 <h1 align="center">Hi 👋, I'm Vinit Patidar</h1>
-<h3 align="center">Software Engineer</h3>
 
 <p align="center">
-  I build responsive, user-friendly web applications across the full stack —
-  React/Next.js on the frontend, Node.js and Python on the backend.
-  Currently sharpening my skills in System Design.
-  Open to new opportunities and collaborations.
+  <b>Software Engineer | Full Stack Developer | Backend Enthusiast</b>
 </p>
 
 <p align="center">
-  📫 <a href="mailto:Vinitpatidar780@gmail.com">Vinitpatidar780@gmail.com</a> ·
-  <a href="https://www.linkedin.com/in/vinitpatidar03">LinkedIn</a>
+I enjoy building scalable web applications, designing efficient backend systems, and creating user-friendly experiences. Passionate about solving real-world problems through technology while continuously improving my skills in Data Structures, Algorithms, and System Design.
 </p>
 
 ---
 
-## 🛠️ Tech Stack
+## 🚀 About Me
 
-**Languages:** ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
-
-**Frontend:** ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
-
-**Backend:** ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat-square&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat-square&logo=flask&logoColor=white)
-
-**Databases & Cloud:** ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat-square&logo=firebase) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white)
+- 💻 Full Stack Developer specializing in **MERN Stack** and **Next.js**
+- ⚡ Passionate about Backend Engineering, AI Applications & Distributed Systems
+- 🌱 Currently learning **Advanced DSA**, **System Design**, and **Cloud Technologies**
+- 🎯 Always building projects that solve real-world problems
+- 🤝 Open to Software Engineering opportunities and collaborations
 
 ---
 
-## 📊 GitHub Stats
+## 🌐 Connect With Me
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.shion.dev/api?username=vinit-patidar-03&theme=radical&hide_border=false&include_all_commits=false&count_private=false" />
-  <img height="165" src="https://github-readme-stats.shion.dev/api/top-langs/?username=vinit-patidar-03&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+<p align="left">
+<a href="https://www.linkedin.com/in/vinitpatidar03" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:Vinitpatidar780@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=vinit-patidar-03&theme=radical&hide_border=false" alt="GitHub Streak" />
-</p>
+---
+
+## 🛠 Tech Stack
+
+### Languages
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![Next JS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss)
+
+### Backend
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql)
+
+### Database & Cloud
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render)
+
+### Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma)
+
+---
